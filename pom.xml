@@ -11,7 +11,7 @@
    <repository>
      <id>github</id>
      <name>Aravind-Kumpatla-SAP</name>
-     <url>https://maven.pkg.github.com/Aravind-Kumpatla-SAP/Maven_Project</url>
+     <url>https://maven.pkg.github.com/Aravind-Kumpatla-SAP</url>
    </repository>
   </distributionManagement>
   <dependencies>
