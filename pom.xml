@@ -4,17 +4,9 @@
   <groupId>Devops</groupId>
   <artifactId>Devops_maven</artifactId>
   <packaging>jar</packaging>
-  <version>${version}</version>
+  <version>1.0.1</version>
   <name>Devops_maven</name>
   <url>http://maven.apache.org</url>
-  <distributionManagement>
-   <repository>
-     <id>github</id>
-     <name>Aravind-Kumpatla-SAP</name>
-     <token>${token}</token>
-     <url>https://maven.pkg.github.com/Aravind-Kumpatla-SAP/Maven_Project</url>
-   </repository>
-  </distributionManagement>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
