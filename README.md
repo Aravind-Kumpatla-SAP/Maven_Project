@@ -1,3 +1,3 @@
 # Maven_Project
 Making changes on Package branch
-VERSION-6
+VERSION-7
