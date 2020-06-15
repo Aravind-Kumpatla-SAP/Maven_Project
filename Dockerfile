@@ -7,4 +7,4 @@ COPY ./*.jar .
 
 EXPOSE 8080
 
-CMD ["/opt/tomcat/bin/start.sh", "run"]
+CMD ["/tmp/apache-tomcat-8.5.32/bin/start.sh", "run"]
