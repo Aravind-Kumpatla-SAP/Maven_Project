@@ -1,4 +1,4 @@
-FROM aravindkump/tomcat8:v3
+FROM aravindkump/tomcat8:v5
 
 MAINTAINER aravindk2119@gmail.com
 
