@@ -4,7 +4,7 @@
   <groupId>Devops</groupId>
   <artifactId>Devops_maven</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1</version>
+  <version>${version}</version>
   <name>Devops_maven</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>
