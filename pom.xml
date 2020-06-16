@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Devops</groupId>
   <artifactId>Devops_maven</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>${version}</version>
   <name>Devops_maven</name>
   <url>http://maven.apache.org</url>
